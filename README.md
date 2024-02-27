@@ -2,4 +2,4 @@
 
 ## Grade Convertion Preview
 ### Tampilan
-<img src="Hasil Tampilan/tampilan_php_native.jpg" />
+<img src="tampilan_php_native.jpg" />
